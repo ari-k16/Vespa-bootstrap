@@ -106,6 +106,9 @@ span {
 	width: 300px;
 	height: 400px;
 	margin-top: 100px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
 }
 
 .card-body4 h5 {
@@ -119,6 +122,9 @@ span {
 .card-body5 img {
 	width: 300px;
 	margin-top: 100px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
 }
 
 .card-body5 h5 {
@@ -262,6 +268,7 @@ span {
 	.card-body3 img {
 		width: 300px;
 		margin-top: 100px;
+		
 	}
 
 	.card-body3 h5 {
